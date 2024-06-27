@@ -6,6 +6,8 @@ nav_order: 2
 
 # BFVRobot 是否提供支持?
 
+----
+
 BFVROBOT是一个免费提供服务项目，有以下几种方式可以获得ROBOT支持:
 
 - KOOK开发者社区 - (免费)

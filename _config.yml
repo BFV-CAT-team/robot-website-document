@@ -8,6 +8,10 @@ logo: "/assets/images/logo.png"
 search_enabled: true
 color_scheme: robot
 
+search:
+  focus_shortcut_key: 'k'
+  tokenizer_separator: /[\s/]+/
+
 collections:
   tests:
     permalink: "/:collection/:path/"
@@ -17,6 +21,9 @@ callouts:
   warning:
     title: Warning
     color: red
+  robot:
+    color: pink
+    opacity: 0.3
 
 nav_external_links:
   - title: 官网
