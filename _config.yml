@@ -1,29 +1,12 @@
 title: BFV Robot
 description: bfvrobot document
 theme: just-the-docs
-port: 4002
+port: 4004
 url: https://github.com/BF-CAT-Team
 favicon_ico: "/assets/images/logo.png"
 logo: "/assets/images/logo.png"
 search_enabled: true
 color_scheme: robot
-
-search:
-  focus_shortcut_key: 'k'
-  tokenizer_separator: /[\s/]+/
-
-collections:
-  tests:
-    permalink: "/:collection/:path/"
-    output: true
-
-callouts:
-  warning:
-    title: Warning
-    color: red
-  robot:
-    color: pink
-    opacity: 0.3
 
 nav_external_links:
   - title: 官网
