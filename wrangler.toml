@@ -1,0 +1,5 @@
+[build]
+  ruby = "3.0.0"
+
+[site]
+bucket = "./_site"
