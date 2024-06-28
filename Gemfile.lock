@@ -11,6 +11,7 @@ GEM
     eventmachine (1.2.7)
     ffi (1.17.0-arm64-darwin)
     ffi (1.17.0-x86_64-linux-gnu)
+    ffi (1.17.0-x86_64-linux)
     forwardable-extended (2.6.0)
     google-protobuf (3.25.3-arm64-darwin)
     google-protobuf (3.25.3-x86_64-linux)
