@@ -4,8 +4,9 @@ layout: default
 parent: 条款
 ---
 
+---
 # 完整版Robot服务器的基础要求与基础服规
-
+{: .text-center	.lh-default	.fw-500 }
 ----
 
 ## 基础要求

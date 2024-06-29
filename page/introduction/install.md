@@ -5,7 +5,10 @@ parent: 介绍
 nav_order: 2
 ---
 
+----
 # 安装
+{: .text-left .lh-default .fw-500 }
+----
 
 ## 在安装前你需要准备
 
@@ -23,7 +26,7 @@ nav_order: 2
 | 名称                   | 描述                     | 社区                                                  |                 下载                  |
 |----------------------|------------------------|-----------------------------------------------------|:-----------------------------------:|
 | BFVROBOT社区EA账户获取令牌工具 | 由BFVROBOT社区开放的获取身份令牌工具 | [链接](https://github.com/BF-CAT-Team/GetCookieTools) | [下载](http://){: .btn .btn-outline } |
-| EA APP模拟器            | 第三方                    | [链接](https://battlefield.vip/)                                                  |                                     |
+| EA APP模拟器            | 第三方                    | [链接](https://battlefield.vip/)                      |                                     |
 
 ## 部署
 
@@ -32,7 +35,5 @@ nav_order: 2
 - 打开bfv。等待bfv游戏客户端打开，游戏的窗口出来的时候（不是进入主菜单，看到游戏的窗口就行）, 直接点网页上的开服按钮
 
 - 进入bfv服务器看服务器是否创建成功，如果创建成功，那么进入游戏房间。需要保持游戏房间一直在线插件才会运行
-
-
 
 [视频教程](https://www.bilibili.com/video/BV1ET421a7gm/)

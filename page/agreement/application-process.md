@@ -4,8 +4,9 @@ layout: default
 parent: 条款
 ---
 
+----
 # 关于《BFV ROBOT完整版申请流程》
-
+{: .text-center	.lh-default	.fw-500 }
 ----
 
 [《完整版Robot服务器的规则与基础要求》](./service)

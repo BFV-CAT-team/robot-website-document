@@ -4,8 +4,9 @@ layout: default
 parent: 条款
 ---
 
+----
 # 非正常ID处理办法
-
+{: .text-center	.lh-default	.fw-500 }
 ----
 
 **各位玩家们**:

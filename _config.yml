@@ -1,9 +1,9 @@
 title: BFV Robot
 description: bfvrobot document
 theme: just-the-docs
-port: 4006
-url: https://github.com/BF-CAT-Team
+port: 4018
+url: https://docs.bfvrobot.net
 favicon_ico: "/assets/images/logo.png"
 logo: "/assets/images/logo.png"
-search_enabled: true
+search_enabled: false
 color_scheme: robot
